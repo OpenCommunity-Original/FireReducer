@@ -1,0 +1,7 @@
+name: FireReducer
+version: 1.0
+main: org.opencommunity.FireReducer.Main
+api-version: 1.19
+
+authors: [Envel]
+description: Test

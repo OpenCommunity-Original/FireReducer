@@ -1,0 +1,4 @@
+big-fire:
+  block-count: 100
+  radius: 15
+  report-to-console: true
