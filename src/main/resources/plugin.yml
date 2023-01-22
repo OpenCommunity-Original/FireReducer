@@ -4,4 +4,4 @@ main: org.opencommunity.FireReducer.Main
 api-version: 1.19
 
 authors: [Envel]
-description: Test
+description: The plugin extinguishes large fires within a specific radius.
